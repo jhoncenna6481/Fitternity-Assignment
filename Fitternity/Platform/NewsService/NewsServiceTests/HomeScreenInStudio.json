@@ -1,0 +1,1226 @@
+{
+    "city_name": "mumbai",
+    "city_id": 1,
+    "instudio": "true",
+    "product_tags": [
+        {
+            "image": "https://b.fitn.in/home/OnepassTag.png",
+            "title": "ONEPASS",
+            "text": "Flexi-Membership",
+            "link": "ftrnty://ftrnty.com/onepass"
+        },
+        {
+            "image": "https://b.fitn.in/home/GymTag.png",
+            "title": "Gym Membership",
+            "text": "Lowest Price of the Year",
+            "link": "ftrnty://ftrnty.com/s"
+        },
+        {
+            "image": "https://b.fitn.in/home/OnlinePTTag.png",
+            "title": "Personal Training",
+            "text": "1:1 Personal Training",
+            "link": "https://www.fitternity.com/personal-trainer?mobile_app=true"
+        }
+    ],
+    "campaigns": [
+        {
+            "image": "https://b.fitn.in/homepagebanner/app/Fitternity%20live%20banner%20%E2%80%93%20new%20banner%402x.1588603005.png",
+            "link": "ftrnty://ftrnty.com/pps",
+            "title": "Know More",
+            "height": 173,
+            "width": 342,
+            "ratio": 0.5,
+            "order": 1
+        },
+        {
+            "image": "https://b.fitn.in/homepagebanner/app/Gift%20voucher%20app%20banner%20%E2%80%93%20option%201%402x.1586354731.1591085802.png",
+            "link": "https://www.fitternity.com/monsoon-bonanza?mobile_app=1",
+            "title": "Know More",
+            "height": 173,
+            "width": 342,
+            "ratio": 0.5,
+            "order": 2
+        },
+        {
+            "image": "https://b.fitn.in/homepagebanner/app/Onepass%20banner%402x.1586354653.png",
+            "link": "ftrnty://ftrnty.com/onepass",
+            "title": "Know More",
+            "height": 173,
+            "width": 342,
+            "ratio": 0.5,
+            "order": 3
+        },
+        {
+            "image": "https://b.fitn.in/homepagebanner/app/Gift%20voucher%20app%20banner%20%E2%80%93%20option%201%402x.1586354731.png",
+            "link": "https://www.fitternity.com/help-community?mobile_app=true",
+            "title": "Know More",
+            "height": 173,
+            "width": 342,
+            "ratio": 0.5,
+            "order": 4
+        },
+        {
+            "image": "https://b.fitn.in/homepagebanner/app/download.1591953183.jpeg",
+            "link": "https://www.fitternity.com/monsoon-bonanza?mobile_app=1",
+            "title": "Know More",
+            "height": 173,
+            "width": 342,
+            "ratio": 0.5,
+            "order": 7
+        }
+    ],
+    "categories": {
+        "title": "Discover & Book",
+        "text": "Explore Gyms & Fitness Centers in Mumbai",
+        "max_category": 5,
+        "all_category_title": "Explore the best fitness options in Mumbai",
+        "categorytags": [
+            {
+                "name": "gyms",
+                "slug": "gyms",
+                "_id": 5,
+                "image": "https://b.fitn.in/global/app-images/gyms.png"
+            },
+            {
+                "name": "zumba",
+                "slug": "zumba-classes",
+                "_id": 12,
+                "image": "https://b.fitn.in/global/app-images/zumba.png"
+            },
+            {
+                "name": "cross functional training",
+                "slug": "functional-training",
+                "_id": 35,
+                "image": "https://b.fitn.in/global/app-images/ccross%20functional.png"
+            },
+            {
+                "name": "Fitness Studios",
+                "slug": "fitness-studios",
+                "_id": 43,
+                "image": "https://b.fitn.in/global/app-images/fitness%20studio.png"
+            },
+            {
+                "name": "MMA and kick boxing",
+                "slug": "mma-and-kick-boxing-classes",
+                "_id": 8,
+                "image": "https://b.fitn.in/global/app-images/MMA%20%26%20Kickboxing.png"
+            },
+            {
+                "name": "yoga",
+                "slug": "yoga-classes",
+                "_id": 6,
+                "image": "https://b.fitn.in/global/app-images/Yoga.png"
+            },
+            {
+                "name": "swimming",
+                "slug": "swimming-pools",
+                "_id": 10,
+                "image": "https://b.fitn.in/global/app-images/Swimming.png"
+            },
+            {
+                "name": "marathon training",
+                "slug": "marathon-training",
+                "_id": 36,
+                "image": "https://b.fitn.in/global/app-images/Marathon.png"
+            },
+            {
+                "name": "pilates",
+                "slug": "pilates-classes",
+                "_id": 11,
+                "image": "https://b.fitn.in/global/app-images/Pilates.png"
+            },
+            {
+                "name": "dance",
+                "slug": "dance-classes",
+                "_id": 7,
+                "image": "https://b.fitn.in/global/app-images/Dance.png"
+            },
+            {
+                "name": "spinning and indoor cycling",
+                "slug": "spinning-classes",
+                "_id": 14,
+                "image": "https://b.fitn.in/global/app-images/Spinning.png"
+            },
+            {
+                "name": "Luxury Hotels",
+                "slug": "luxury-hotels",
+                "_id": 47,
+                "image": "https://b.fitn.in/global/app-images/Lux%20Hotles.png"
+            },
+            {
+                "name": "Aerial Fitness",
+                "slug": "aerial-fitness",
+                "_id": 48,
+                "image": "https://b.fitn.in/global/app-images/Aerial%20Fitness.png"
+            },
+            {
+                "name": "Pre-natal Classes",
+                "slug": "pre-natal-classes",
+                "_id": 49,
+                "image": "https://b.fitn.in/global/app-images/Pre-Natal.png"
+            },
+            {
+                "name": "Kids Fitness",
+                "slug": "kids-fitness-classes",
+                "_id": 44,
+                "image": "https://b.fitn.in/global/app-images/Kids.png"
+            },
+            {
+                "name": "Aqua Fitness",
+                "slug": "aqua-fitness",
+                "_id": 51,
+                "image": "https://b.fitn.in/global/app-images/Aqua.png"
+            }
+        ],
+        "campaign": {
+            "image": "https://b.fitn.in/global/app-images/homepage/CampaignOffer.png",
+            "title": "Strong Gets Stronger Sale Is Live | 50% Off + Extra 25% Off Only For Women",
+            "bg_color": "#79e2d6",
+            "text_color": "#212121",
+            "url": "https://www.fitternity.com/offers-vouchers?mobile_app=true"
+        }
+    },
+    "onepass_pre": {
+        "header_img": "http://b.fitn.in/passes/onepass-app.png",
+        "button_text": "KNOW MORE",
+        "passes": {
+            "image": "https://b.fitn.in/global/classpass/newcards/redpass.png",
+            "header1": "ONEPASS",
+            "header1_color": "#000000",
+            "header2": "RED",
+            "subtitle": "The Flexi Membership",
+            "header2_color": "#d50000",
+            "subheader": "UNLIMITED ACCESS",
+            "desc_header": "Studio + Livestreams Pass",
+            "onepass_type": "red",
+            "description": "The all-in-one fitness membership - OnePass gives access 12,000+ top gyms & studios across India with “Best-In-Safety” standards and added benefits of 3 months freezing along with personal training sessions, monthly body assessments, and 100+ LIVE virtual sessions"
+        },
+        "campaign": {
+            "image": "https://b.fitn.in/global/app-images/homepage/CampaignOffer.png",
+            "title": "Lowest Price Alert: Get Flat 50% Off On OnePass | Buy Stress Free With 100% Membership Freezing ",
+            "bg_color": "#79e2d6",
+            "text_color": "#212121",
+            "url": "https://www.fitternity.com/offers-vouchers?mobile_app=true"
+        }
+    },
+    "upcoming_classes": {
+        "title": "Upcoming Classes in Mumbai",
+        "description": "Working out at your favourite center is now even better with a flexible pack of 1, 5, 10 & 30 sessions - Pay only when you workout",
+        "button_text": "VIEW ALL",
+        "campaign": {
+            "image": "https://b.fitn.in/global/app-images/homepage/CampaignOffer.png",
+            "title": "Stay tuned for more offers!",
+            "bg_color": "#79e2d6",
+            "text_color": "#212121",
+            "url": "https://www.fitternity.com/offers-vouchers?mobile_app=true"
+        },
+        "session_type": "physical",
+        "data": [
+            {
+                "average_rating": 4.4964114832536,
+                "name": "Multifit - Andheri",
+                "slug": "gym-workout-and-hiit-(-high-intensity-interval-training-)-16539",
+                "vendor_slug": "multifit---andheri",
+                "vendor_name": "Gym Workout",
+                "coverimage": "https://b.fitn.in/f/c/9932/9932_1529059264949.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 6 session",
+                "next_slot": "Open till: 11:00 pm",
+                "total_rating_count": 418,
+                "location": "andheri west",
+                "address": {
+                    "pincode": 400053,
+                    "location": "Base location",
+                    "line3": "Andheri( West ), Mumbai",
+                    "landmark": "Above Hard Rock Cafe",
+                    "line2": "Fun Republic Road",
+                    "line1": "2nd Floor, Sharyans Audeus"
+                },
+                "special_price": 300,
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 16539,
+                "booking_points": 10,
+                "session_time": 60,
+                "overlayimage_v2": {
+                    "icon": "https://b.fitn.in/paypersession/ppsTags/Booked%20x%20Times.png",
+                    "text": "Booked 10 times last week"
+                },
+                "pps_oneliner": "Gym | Multifit - Andheri",
+                "flags": {
+                    "onepass_max_booking_count": 4
+                },
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "600 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "120"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.3176470588235,
+                "name": "Anytime Fitness Khar West",
+                "slug": "gym-membership-14112",
+                "vendor_slug": "anytime-fitness-khar-west",
+                "vendor_name": "Gym Workout",
+                "coverimage": "https://b.fitn.in/f/c/9459/9459_1495091738090.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 4 session",
+                "next_slot": "Open till: 09:00 pm",
+                "total_rating_count": 85,
+                "location": "khar west",
+                "address": {
+                    "pincode": 400052,
+                    "location": "",
+                    "line3": "khar west",
+                    "landmark": "Opposite to Casper Mumbai Properties",
+                    "line2": "15th Road",
+                    "line1": "3rd Floor, Gabbana House"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 14112,
+                "session_time": 60,
+                "pps_oneliner": "Gym | Anytime Fitness Khar West",
+                "flags": [],
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "600 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "600"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.3225806451613,
+                "name": "Viikings Trance Fitness",
+                "slug": "crossfit-21946",
+                "vendor_slug": "viikings-trance-fitness-powai",
+                "vendor_name": "CrossFit",
+                "coverimage": "https://b.fitn.in/f/c/1429/1429_1559720467584.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 1 session",
+                "next_slot": "Next session: 09:00 pm",
+                "total_rating_count": 62,
+                "location": "powai",
+                "address": {
+                    "pincode": 400076,
+                    "location": "Base location",
+                    "line3": "Powai, Mumbai-.",
+                    "landmark": "Hiranandani Gardens",
+                    "line2": "Orchard Avenue, Hiranandani Gardens",
+                    "line1": "Jmj House, 4th Floor"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 21946,
+                "session_time": 60,
+                "overlayimage_v2": {
+                    "icon": "https://b.fitn.in/paypersession/exclusive_v2.png",
+                    "text": "Exclusive"
+                },
+                "pps_oneliner": "Cross Training | Viikings Trance Fitness",
+                "flags": {
+                    "onepass_max_booking_count": 2
+                },
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "450 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "800"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.280303030303,
+                "name": "Kris Gethin Gym",
+                "slug": "gym-membership-22594",
+                "vendor_slug": "kris-gethin-gym-chembur-east",
+                "vendor_name": "Gym Workout",
+                "coverimage": "https://b.fitn.in/f/c/11810/11810_1509362531989.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 5 session",
+                "next_slot": "Open till: 10:00 pm",
+                "total_rating_count": 66,
+                "location": "chembur east",
+                "address": {
+                    "pincode": 400071,
+                    "location": "Base location",
+                    "line3": "Chembur East",
+                    "landmark": "Before Acres Club",
+                    "line2": "Bhakti Bhavan Lane, Kumbarwada, ST Road",
+                    "line1": "Origin 108, 9th Floor Onward"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 22594,
+                "session_time": 60,
+                "pps_oneliner": "Gym | Kris Gethin Gym",
+                "flags": [],
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "600 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "1000"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.4764150943396,
+                "name": "Diva Yoga by Malaika Arora - Women Only",
+                "slug": "yoga-30553",
+                "vendor_slug": "diva-yoga-by-malaika-arora---women-only-bandra-west",
+                "vendor_name": "Yoga",
+                "coverimage": "https://b.fitn.in/f/c/15210/15210_1537544649105.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 2 sessions",
+                "next_slot": "Next session: 06:45 pm",
+                "total_rating_count": 106,
+                "location": "bandra west",
+                "address": {
+                    "pincode": 400050,
+                    "location": "Base location",
+                    "line3": "Bandra West",
+                    "landmark": "Opposite to Holy Family Hospital",
+                    "line2": "Milagres House, Above Vijaya & Canara Bank, Hill Road",
+                    "line1": "2nd Floor"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 30553,
+                "session_time": 60,
+                "pps_oneliner": "Ashtanga yoga | Diva Yoga by Malaika Arora - Women Only",
+                "flags": [],
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "250 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "1000"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.4764150943396,
+                "name": "Diva Yoga by Malaika Arora - Women Only",
+                "slug": "zumba-30556",
+                "vendor_slug": "diva-yoga-by-malaika-arora---women-only-bandra-west",
+                "vendor_name": "Zumba",
+                "coverimage": "https://b.fitn.in/f/c/15210/15210_1537544649105.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 1 session",
+                "next_slot": "Next session: 09:15 pm",
+                "total_rating_count": 106,
+                "location": "bandra west",
+                "address": {
+                    "pincode": 400050,
+                    "location": "Base location",
+                    "line3": "Bandra West",
+                    "landmark": "Opposite to Holy Family Hospital",
+                    "line2": "Milagres House, Above Vijaya & Canara Bank, Hill Road",
+                    "line1": "2nd Floor"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 30556,
+                "session_time": 60,
+                "pps_oneliner": "Zumba Classes | Diva Yoga by Malaika Arora - Women Only",
+                "flags": [],
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "700 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "1000"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 3.9301470588235,
+                "name": "Rebell - The Fitness Lounge",
+                "slug": "gym-membership-33883",
+                "vendor_slug": "rebell---the-fitness-lounge",
+                "vendor_name": "Gym Workout",
+                "coverimage": "https://b.fitn.in/f/c/16443/16443_1555591871122.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 6 session",
+                "next_slot": "Open till: 11:15 pm",
+                "total_rating_count": 136,
+                "location": "andheri west",
+                "address": {
+                    "pincode": 400053,
+                    "location": "Base location",
+                    "line3": "Andheri West",
+                    "landmark": "Near Lord of Drinks",
+                    "line2": "Off Link Road",
+                    "line1": "501/502/503/504 Crescent Royale Building"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 33883,
+                "session_time": 60,
+                "pps_oneliner": "Gym | Rebell - The Fitness Lounge",
+                "flags": {
+                    "onepass_max_booking_count": 3
+                },
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "600 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "200"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4,
+                "name": "Gold's Gym Bandra West",
+                "slug": "gym-membership-284",
+                "vendor_slug": "golds-gym-bandra-west",
+                "vendor_name": "Gym Workout",
+                "coverimage": "https://b.fitn.in/f/c/579_1426845704.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 6 session",
+                "next_slot": "Open till: 11:00 pm",
+                "total_rating_count": 185,
+                "location": "bandra west",
+                "address": {
+                    "pincode": null,
+                    "location": "",
+                    "line3": " Bandra West, Above HDFC Bank, Mumbai - 400050",
+                    "landmark": "",
+                    "line2": " Pali Naka",
+                    "line1": "4th Floor"
+                },
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 284,
+                "session_time": 60,
+                "pps_oneliner": "Gym | Gold's Gym Bandra West",
+                "flags": [],
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "600 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "1000"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.4489361702128,
+                "name": "Reset",
+                "slug": "gym-membership-22022",
+                "vendor_slug": "reset-bandra-west",
+                "vendor_name": "Gym Workout",
+                "coverimage": "https://b.fitn.in/f/c/12046/12046_1511262093900.jpg",
+                "overlayimage": "",
+                "total_slots": "Total 5 session",
+                "next_slot": "Open till: 10:00 pm",
+                "total_rating_count": 235,
+                "location": "bandra west",
+                "address": {
+                    "pincode": 400050,
+                    "location": "Base location",
+                    "line3": "Bandra West",
+                    "landmark": "Opposite Hotel Rangsharda",
+                    "line2": "Bandra Reclemation",
+                    "line1": "5th floor Bombay Art Society"
+                },
+                "special_price": 1600,
+                "campaign_text": "",
+                "commercial": "paid",
+                "service_type": "physical",
+                "id": 22022,
+                "session_time": 60,
+                "pps_oneliner": "Gym | Reset",
+                "flags": {
+                    "onepass_max_booking_count": 1
+                },
+                "overlay_details": [
+                    {
+                        "icon": "https://b.fitn.in/service_page/Calories.png",
+                        "text": "600 Kcal"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Duration.png",
+                        "text": "60 Mins"
+                    },
+                    {
+                        "icon": "https://b.fitn.in/service_page/Price.png",
+                        "text": "1499"
+                    }
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            }
+        ]
+    },
+    "fitness_centres": {
+        "title": "Fitness Centres in Mumbai",
+        "description": "Check top gyms & fitness centers near you with the best safety standards",
+        "button_text": "VIEW ALL",
+        "data": [
+            {
+                "average_rating": 4.3,
+                "coverimage": "https://b.fitn.in/f/c/7656/7656_1495436205963.jpg",
+                "location": "malad west",
+                "slug": "el-gymnasio-malad-west",
+                "id": 7656,
+                "categorytags": [
+                    "gyms",
+                    "mma and kick boxing",
+                    "zumba",
+                    "cross functional training",
+                    "personal trainer"
+                ],
+                "category": "Gyms",
+                "total_rating_count": 45,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": false,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": true,
+                    "monsoon_flash_discount": "without_cap",
+                    "monsoon_flash_discount_per": 75,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "17-35"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    },
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/Livestream.png",
+                        "height": 78,
+                        "width": 264
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Gym Membership - 1 year @ Rs. 299",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "Emergo Bpo, 305/306, 3rd Floor, Evershine MallLink Road, ChincholiMalad WestOpp Tech Mahindra400064",
+                "title": "El Gymnasio",
+                "subcategories": [
+                    "Gyms",
+                    "Mma And Kick Boxing",
+                    "Zumba",
+                    "Cross Functional Training",
+                    "Personal Trainer"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.4,
+                "coverimage": "https://b.fitn.in/f/c/12046/12046_1511262093900.jpg",
+                "location": "bandra west",
+                "slug": "reset-bandra-west",
+                "id": 12046,
+                "categorytags": [
+                    "gyms",
+                    "yoga",
+                    "dance",
+                    "mma and kick boxing",
+                    "crossfit",
+                    "cross functional training",
+                    "fitness studios"
+                ],
+                "category": "Gyms",
+                "total_rating_count": 41,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": true,
+                    "state": "open",
+                    "featured": true,
+                    "april5": false,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": true,
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "36-5",
+                        "36-0"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    },
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/Livestream.png",
+                        "height": 78,
+                        "width": 264
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Gym Membership - 1 year @ Rs. 55,640",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "5th floor Bombay Art SocietyBandra ReclamationBandra WestOpposite Hotel Rangsharda400050",
+                "title": "Reset",
+                "subcategories": [
+                    "Gyms",
+                    "Yoga",
+                    "Dance",
+                    "Mma And Kick Boxing",
+                    "Crossfit",
+                    "Cross Functional Training",
+                    "Fitness Studios"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.4,
+                "coverimage": "https://b.fitn.in/f/c/1490/1490_1495007290905.jpg",
+                "location": "lokhandwala",
+                "slug": "bodyholics-combine-training-gym",
+                "id": 1490,
+                "categorytags": [
+                    "gyms",
+                    "yoga",
+                    "cross functional training"
+                ],
+                "category": "Cross Functional Training",
+                "total_rating_count": 56,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": true,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": true,
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "45-35"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "abw_vendor": {
+                    "physical": "flagship"
+                },
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Combine Training (Gym Workout + Functional Training) - 1 year @ Rs. 18,200",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "106, Maurya Classic BuildingLane Opposite Infinity 1Diagonal To Lashkaria Group SocietyAbove Golden Fin And Pop Tates, Andheri West400053",
+                "title": "Bodyholics Combine Training Gym",
+                "subcategories": [
+                    "Gyms",
+                    "Yoga",
+                    "Cross Functional Training"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.9,
+                "coverimage": "https://b.fitn.in/f/c/4534/4534_1529151831031.jpg",
+                "location": "andheri west",
+                "slug": "crossfit-blackfire",
+                "id": 4534,
+                "categorytags": [
+                    "cross functional training",
+                    "crossfit"
+                ],
+                "category": "Cross Functional Training",
+                "total_rating_count": 67,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": false,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": false,
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "24-35"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "abw_vendor": {
+                    "online": "fit",
+                    "physical": "flagship"
+                },
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    },
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/Livestream.png",
+                        "height": 78,
+                        "width": 264
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Live-CrossFit - 1 year @ Rs. 23,700",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "Karamveer Sports Center BasementRTO Corner, Four BunglowsAndheri WestBehind Siddharth Banquet400053",
+                "title": "CrossFit Blackfire",
+                "subcategories": [
+                    "Cross Functional Training",
+                    "Crossfit"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.1,
+                "coverimage": "https://b.fitn.in/f/c/11183/11183_1508995613298.jpg",
+                "location": "byculla",
+                "slug": "body-bar-byculla",
+                "id": 11183,
+                "categorytags": [
+                    "gyms"
+                ],
+                "category": "Gyms",
+                "total_rating_count": 9,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": true,
+                    "not_available_on_onepass": true,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": true,
+                    "monsoon_flash_discount": "with_cap",
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "73-5"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "abw_vendor": {
+                    "physical": "flagship"
+                },
+                "offering_images": [],
+                "trial_header": "Trial: ",
+                "membership_header": "Gym Membership - 1 year @ Rs. 7,750",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "Maria Heights, Ground floorMazgaonBycullaNext to Mazgaon Garden, Opposite St. Peter's School400010",
+                "title": "Body Bar",
+                "subcategories": [
+                    "Gyms"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.5,
+                "coverimage": "https://b.fitn.in/f/c/11246/11246_1529152598282.jpg",
+                "location": "lokhandwala",
+                "slug": "the-flex-studio",
+                "id": 11246,
+                "categorytags": [
+                    "dance",
+                    "mma and kick boxing",
+                    "zumba",
+                    "crossfit",
+                    "cross functional training",
+                    "aerial fitness",
+                    "bootcamp"
+                ],
+                "category": "Cross Functional Training",
+                "total_rating_count": 21,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": true,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": true,
+                    "monsoon_flash_discount": "with_cap",
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "45-43"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "abw_vendor": {
+                    "physical": "fit"
+                },
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Cross Functional Training + HIIT (High Intensity Interval Training) - 1 year @ Rs. 11,000",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "Sindhudurg Bhavan, 1st FloorSuresh NagarLokhandwalaAbove Grand Imperial Banquets, Opposite YES Bank400047",
+                "title": "The Flex Studio",
+                "subcategories": [
+                    "Dance",
+                    "Mma And Kick Boxing",
+                    "Zumba",
+                    "Crossfit",
+                    "Cross Functional Training",
+                    "Aerial Fitness",
+                    "Bootcamp"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.3,
+                "coverimage": "https://b.fitn.in/f/c/1429/1429_1559720467584.jpg",
+                "location": "powai",
+                "slug": "viikings-trance-fitness-powai",
+                "id": 1429,
+                "categorytags": [
+                    "gyms",
+                    "mma and kick boxing",
+                    "zumba",
+                    "spinning and indoor cycling",
+                    "aerial fitness",
+                    "yoga",
+                    "cross functional training",
+                    "pilates",
+                    "personal trainer"
+                ],
+                "category": "Gyms",
+                "total_rating_count": 25,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": true,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": true,
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "23-6"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Gym Membership - 1 year @ Rs. 19,792",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "JMJ House, 4th FloorOrchard AvenuePowai, MumbaiHiranandani Gardens400076",
+                "title": "Viikings Trance Fitness",
+                "subcategories": [
+                    "Gyms",
+                    "Mma And Kick Boxing",
+                    "Zumba",
+                    "Spinning And Indoor Cycling",
+                    "Aerial Fitness",
+                    "Yoga",
+                    "Cross Functional Training",
+                    "Pilates",
+                    "Personal Trainer"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.3,
+                "coverimage": "https://b.fitn.in/f/c/9459/9459_1495091738090.jpg",
+                "location": "khar west",
+                "slug": "anytime-fitness-khar-west",
+                "id": 9459,
+                "categorytags": [
+                    "gyms",
+                    "yoga",
+                    "cross functional training"
+                ],
+                "category": "Gyms",
+                "total_rating_count": 21,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": false,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": false,
+                    "not_available_on_onepass": true,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": false,
+                    "monsoon_flash_discount": "with_cap",
+                    "monsoon_flash_discount_per": 25,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "30-35",
+                        "30-5"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "abw_vendor": [],
+                "offering_images": [],
+                "trial_header": "Trial: ",
+                "membership_header": "Gym Membership - 1 year @ Rs. 25,500",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "2nd and 3rd Floor, Devinbru369 Linking Roadkhar westNext to Asics Store400052",
+                "title": "Anytime Fitness Khar West",
+                "subcategories": [
+                    "Gyms",
+                    "Yoga",
+                    "Cross Functional Training"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            },
+            {
+                "average_rating": 4.4,
+                "coverimage": "https://b.fitn.in/f/c/12164/12164_1565778216630.jpg",
+                "location": "lokhandwala",
+                "slug": "alpha-7-seas",
+                "id": 12164,
+                "categorytags": [
+                    "gyms",
+                    "crossfit",
+                    "cross functional training"
+                ],
+                "category": "Cross Functional Training",
+                "total_rating_count": 45,
+                "flags": {
+                    "trial": "auto",
+                    "membership": "auto",
+                    "top_selling": true,
+                    "newly_launched": false,
+                    "opening_soon": false,
+                    "coming_on_onepass": false,
+                    "state": "open",
+                    "featured": true,
+                    "april5": true,
+                    "not_available_on_onepass": false,
+                    "forced_on_onepass": false,
+                    "lite_classpass_available": false,
+                    "covid_state": "open",
+                    "covid_state_id": 2,
+                    "covid_state_immediately": false,
+                    "monsoon_flash_discount": "with_cap",
+                    "monsoon_flash_discount_per": 0,
+                    "monsoon_flash_discount_disabled": false,
+                    "hyper_local_list": [
+                        "24-35"
+                    ]
+                },
+                "commercial": "paid",
+                "featured": true,
+                "abw_vendor": {
+                    "online": "fit",
+                    "physical": "flagship"
+                },
+                "offering_images": [
+                    {
+                        "image": "https://b.fitn.in/paypersession/ppsTags/OnePass.png",
+                        "height": 78,
+                        "width": 220
+                    }
+                ],
+                "trial_header": "Trial: ",
+                "membership_header": "Studio Membership - 1 year @ Rs. 34,777",
+                "membership_icon": "https://b.fitn.in/global/fitness-flash-sale-logo.png",
+                "membership_offer_default": false,
+                "membership_offer": "Exclusive Offer Available Assured Rewards On Every Purchase",
+                "type": "vendor_card",
+                "address": "Shop No. 1, A Wing, Platinum HeightsMhada LayoutLokhandwalaNear SV Patel Nagar400047",
+                "title": "Alpha 7 Seas",
+                "subcategories": [
+                    "Gyms",
+                    "Crossfit",
+                    "Cross Functional Training"
+                ],
+                "tag_image": "https://b.fitn.in/paypersession/ppsTags/Best%20In%20Safety.png"
+            }
+        ]
+    },
+    "section_orders": [
+        "campaigns",
+        "categories",
+        "onepass_pre",
+        "upcoming_classes",
+        "fitness_centres"
+    ]
+}
